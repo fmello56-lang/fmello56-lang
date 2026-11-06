@@ -8,8 +8,14 @@ Gosto de transformar ideias em experiências digitais claras, funcionais e bem a
 
 - 🌐 Sites institucionais e páginas de apresentação
 - 🎯 Landing pages para negócios e profissionais
-- 🤖 Projetos e experiências com inteligência artificial
-- 💡 Soluções digitais pensadas para fortalecer a presença online
+- 🤖 Projetos e soluções com inteligência artificial
+- ⚙️ Automações de processos e tarefas digitais
+- 💬 Ideias de integração e automação com WhatsApp
+- 💡 Soluções digitais para fortalecer a presença online de negócios
+
+## Áreas que estou explorando
+
+Tenho interesse em ampliar meus projetos para incluir **automações de processos, integrações com WhatsApp e atendimento automatizado**. São frentes que estou estudando e buscando oportunidades para desenvolver na prática; ainda não fazem parte dos projetos publicados neste portfólio.
 
 ## Projetos em destaque
 
