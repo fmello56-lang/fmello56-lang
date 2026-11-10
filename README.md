@@ -28,6 +28,7 @@ Conheça alguns projetos publicados:
 | **Follador** | Representação comercial | [Acessar site](https://follador.netlify.app/) |
 | **Ninho Brechó Infantil** | Moda infantil | [Acessar site](https://ninhobrechoinfantil.netlify.app/) |
 | **Leandro Ramos** | Barbearia | [Acessar site](https://leandro-ramos.netlify.app/) |
+| **Neuzeli Martins — Crochê & Tricô** | Artesanato — crochê e tricô | [Acessar site](https://neuzeli.netlify.app/) |
 
 📁 **[Veja meu portfólio completo no GitHub](https://github.com/fmello56-lang/meus-projetos)**
 
